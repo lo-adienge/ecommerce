@@ -1,0 +1,1 @@
+A complete PHP and MySQL application with the following features: User Registration, Login using Email or Phone Number, Orders, Viewing Orders in Shopping Cart, Wishlist Authentication and Notification
